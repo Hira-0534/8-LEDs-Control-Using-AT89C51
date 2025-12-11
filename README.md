@@ -15,16 +15,14 @@ This project demonstrates:
 
 The system reads button inputs in real-time and turns ON/OFF paired LEDs accordingly.
 
-## Project Screenshots
+## Project Screenshot:
 
-### 1. Circuit Diagram (Proteus 8 Professional)
-images/circuit.png
+###  Circuit Diagram (Proteus 8 Professional)
+<img width="434" height="203" alt="image" src="https://github.com/user-attachments/assets/a1ccceac-9924-4c07-820d-b6773ecd3466" />
 
-### 2. Button Press Output
-images/output.png
 
-### 3. Simulation Running
-images/simulation.png
+
+
 
 ## Tools & Technologies Used
 
