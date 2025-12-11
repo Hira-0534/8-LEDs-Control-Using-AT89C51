@@ -106,7 +106,7 @@ Hira Shahid
 5th Semester — BS Software Engineering  
 Mirpur University of Science & Technology (MUST), AJK  
 Email: hirashahid756@gmail.com  
-GitHub: Hira-0534  
+GitHub:Hira-0534
 
 ## Academic Note
 
